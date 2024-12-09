@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Broken_Animals.json"
+    "Broken_Animals.json",
+    "TomJerryFun.json"
   ],
   "homeserver_url": "https://chat.trayd.xyz"
 }
